@@ -6,5 +6,5 @@
 ## Menu that opens and closes with a nice transition
 ![alt text](assets/image1.png)
 
-## Mouseover images take the apart and Mouseout brings the back together with the selected one first on top
+## Mouseover the images take the stack apart and Mouseout brings them back on top of eachother, with the selected one first
 ![alt text](assets/image2.png)
