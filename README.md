@@ -1,7 +1,7 @@
 # Water these plants
 
 
-#A little landing page that uses javascript in a fun way
+# A little landing page that uses javascript in a fun way
 
 ## Menu that opens and closes with a nice transition
 ![alt text](assets/image1.png)
