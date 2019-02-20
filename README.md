@@ -3,7 +3,7 @@
 
 # A little landing page that uses javascript in a fun way
 
-![video](./assets/video.jpg)
+![video](./assets/video.mov)
 
 ## Menu that opens and closes with a nice transition
 ![alt text](assets/image1.png)
