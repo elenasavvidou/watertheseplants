@@ -1,7 +1,7 @@
 # Water these plants
 
 
-# A little landing page that uses javascript in a fun way
+# A little landing page following Superhi that uses javascript in a fun way
 
 ![video](./assets/video.mov)
 
